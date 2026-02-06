@@ -1,12 +1,20 @@
 # 🖥️ Cursor Website Clone
 
-A pixel-perfect recreation of the [Cursor](https://cursor.com) landing page built with **pure HTML & CSS**. This project demonstrates modern web development techniques, responsive design principles, and attention to detail in recreating a premium tech product's marketing page.
+A  recreation of the [Cursor](https://cursor.com) landing page built with **pure HTML & CSS**. This project demonstrates modern web development techniques, responsive design principles, and attention to detail in recreating a premium tech product's marketing page.
 
 Demo Link [Click here](https://cursor-clone-akshpatel.vercel.app/)
 
 Note: This website is deploy on vercel. if the click here is not working then go with this link: https://cursor-clone-akshpatel.vercel.app/
 
 
+
+# Clone vs Actual 
+
+
+<img width="1920" height="1080" alt="ss1" src="https://github.com/user-attachments/assets/771f5034-efd9-4eee-ae25-c9310e4546fe" />
+
+
+ For More image [Click Here](Cursor-Website-Clone/Assets/screenshort).
 
 
 ---
