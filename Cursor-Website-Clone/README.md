@@ -14,7 +14,7 @@ Note: This website is deploy on vercel. if the click here is not working then go
 <img width="1920" height="1080" alt="ss1" src="https://github.com/user-attachments/assets/771f5034-efd9-4eee-ae25-c9310e4546fe" />
 
 
- For More image [Click Here](Cursor-Website-Clone/Assets/screenshort).
+ For Hole Website Screenshort: [Click Here](Cursor-Website-Clone/Assets/images/Cursor.png).
 
 
 ---
