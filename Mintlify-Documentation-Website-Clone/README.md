@@ -1,19 +1,33 @@
 # Mintlify Documentation Website Clone
 
+## Technlogies Used 
+    HTML
+    CSS
+
 Demo [click here](https://mentlify-clone-akshpatel.vercel.app/)
 
 Note: if the Demo link is not working then go with this link(vercel link: https://mentlify-clone-akshpatel.vercel.app/)
 
-## Screenshots
+## Full Website Screenshot
 
-### Hero Section
-![Hero Section](./images/screenshots/Firstpage.png)
+![Webiste Long Screenshort](./images/screenshots/Longscreenshort.png)
 
-### Logos & Social Proof
-![Logos Section](./images/screenshots/logos.png)
 
-### Feature Cards
-![Feature Cards](./images/screenshots/cards.png)
 
-### Footer
-![Footer](./images/screenshots/footer.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
