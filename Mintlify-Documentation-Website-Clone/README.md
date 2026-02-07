@@ -7,7 +7,7 @@ Note: if the Demo link is not working then go with this link(vercel link: https:
 ## Screenshots
 
 ### Hero Section
-![Hero Section](./images/screenshrots/hero.png)
+![Hero Section](./images/screenshots/Firstpage.png)
 
 ### Logos & Social Proof
 ![Logos Section](./images/screenshots/logos.png)
